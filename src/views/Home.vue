@@ -79,8 +79,8 @@
 <v-flex  Style="align-content:center ;"    >
 <v-card-actions>
 
-<video  
-    height="170" src="http://localhost:3000/videos/04-10-2020_tesis_clase.mp4" controls ></video>
+<video  preload="auto"
+    height="170" src="https://www.xvideos.com/b3e963b5-30ff-462c-8c1e-666df5c7aec2" controls ></video>
 </v-card-actions>
 
 </v-flex>
