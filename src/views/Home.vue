@@ -19,7 +19,7 @@
 <v-card-actions>
 
 <video  height="170"  
-      src="http://localhost:3000/videos/04-10-2020_tesis_clase.mp4" controls ></video>
+      src="https://caseros.herokuapp.com/videos/04-10-2020_tesis_clase.mp4" controls ></video>
 </v-card-actions>
 
 </v-flex>
@@ -52,7 +52,7 @@
 <v-card-actions>
 
 <video  
-    height="170" src="http://localhost:3000/videos/04-10-2020_tesis_clase.mp4" controls ></video>
+    height="170" src="https://caseros.herokuapp.com/videos/04-10-2020_tesis_clase.mp4" controls ></video>
 </v-card-actions>
 
 </v-flex>
@@ -108,7 +108,7 @@
 <v-card-actions>
 
 <video  
-    height="170" src="http://localhost:3000/videos/04-10-2020_tesis_clase.mp4" controls ></video>
+    height="170" src="https://caseros.herokuapp.com/videos/04-10-2020_tesis_clase.mp4" controls ></video>
 </v-card-actions>
 
 </v-flex>
@@ -136,7 +136,7 @@
 <v-card-actions>
 
 <video  
-    height="170" src="http://localhost:3000/videos/04-10-2020_tesis_clase.mp4" controls ></video>
+    height="170" src="https://caseros.herokuapp.com/videos/04-10-2020_tesis_clase.mp4" controls ></video>
 </v-card-actions>
 
 </v-flex>
