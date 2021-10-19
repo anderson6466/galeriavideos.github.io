@@ -7,7 +7,7 @@
 <v-app-bar-nav-icon     @click.stop="drawer = !drawer"   style=" color:#FFFFFF;"       ></v-app-bar-nav-icon>
 <v-toolbar-title    class="font-weight-light"   >
 
-<img src="http://localhost:3000/xvideos.png"    />
+<img src="https://caseros.herokuapp.com/xvideos.png"    />
 
 
 </v-toolbar-title>
